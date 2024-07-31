@@ -1,0 +1,229 @@
+abgmvm.org: Yes, IPv6 Address: 2606:4700:3032::6815:2962
+2606:4700:3030::ac43:a42b
+abvhv.org: Yes, IPv6 Address: 2a02:4780:a:681:0:eeb:f6d0:4
+acn.co.in: Yes, IPv6 Address: 2606:4700:3032::ac43:dfdd
+2606:4700:3032::6815:2e31
+acsir.res.in: Yes, IPv6 Address: 2400:8904::f03c:92ff:feeb:7afa
+adtu.in: Yes, IPv6 Address: 2606:4700:83bb:d162:dd:b0a:f473:31c
+adypu.edu.in: Yes, IPv6 Address: 2606:4700:3033::ac43:cb94
+2606:4700:3034::6815:3a6e
+agu.edu.in: Yes, IPv6 Address: 2606:4700:3032::6815:2191
+2606:4700:3033::ac43:9268
+ahduni.edu.in: Yes, IPv6 Address: 2606:4700:3032::ac43:b4b9
+2606:4700:3034::6815:1243
+alfalahuniversity.edu.in: Yes, IPv6 Address: 2606:4700:3036::6815:2be6
+2606:4700:3034::ac43:bae0
+apeejay.edu: Yes, IPv6 Address: 2606:4700:3035::ac43:dbc2
+2606:4700:3032::6815:18aa
+asbm.ac.in: Yes, IPv6 Address: 2606:4700:3034::ac43:96bd
+2606:4700:3033::6815:286e
+aurouniversity.edu.in: Yes, IPv6 Address: 2606:4700:3036::6815:4c92
+2606:4700:3037::ac43:c420
+awu.ac.in: Yes, IPv6 Address: 2a02:4780:3:1377:0:959:ec6c:2
+azimpremjiuniversity.edu.in: Yes, IPv6 Address: 2606:4700:3037::ac43:d579
+2606:4700:3033::6815:3dc3
+bckv.edu.in: Yes, IPv6 Address: 2606:4700:3032::ac43:9bbc
+2606:4700:3034::6815:30b7
+bgsbuniversity.org: Yes, IPv6 Address: 2606:4700:3033::ac43:d857
+2606:4700:3032::6815:5640
+bgu.ac.in: Yes, IPv6 Address: ::ffff:119.18.54.28
+bilaspuruniversity.ac.in: Yes, IPv6 Address: 2606:4700:3037::ac43:aa2d
+2606:4700:3034::6815:1c14
+bsauniv.ac.in: Yes, IPv6 Address: 2606:4700:3031::ac43:9e45
+2606:4700:3031::6815:4939
+cdac.in: Yes, IPv6 Address: 2405:8a00:6029::45
+cecri.res.in: Yes, IPv6 Address: 2002:e8b:bc7b::e8b:bc7b
+crsujind.org: Yes, IPv6 Address: 2a02:4780:1:791:0:9f1:5165:10
+csmu.ac.in: Yes, IPv6 Address: 2606:4700:3032::6815:35c6
+2606:4700:3031::ac43:da74
+ctrtiranchi.co.in: Yes, IPv6 Address: 2606:4700:3030::ac43:8812
+2606:4700:3030::6815:2e48
+cukerala.ac.in: Yes, IPv6 Address: 2606:4700:3037::ac43:8bd7
+2606:4700:3034::6815:3ee1
+cutm.ac.in: Yes, IPv6 Address: 2606:4700:3030::6815:e69
+2606:4700:3032::ac43:9ea4
+dbuniversity.ac.in: Yes, IPv6 Address: 2606:4700:3033::6815:1a26
+2606:4700:3037::ac43:875a
+dhiu.org: Yes, IPv6 Address: 2a02:4780:20:a177:b672:1b0f:e8e9:c681
+dibru.ac.in: Yes, IPv6 Address: 2606:4700:3030::ac43:b1dd
+2606:4700:3031::6815:539b
+dituniversity.edu.in: Yes, IPv6 Address: 2606:4700:8dd8:438a:1fdd:b0b:f952:da98
+dpsru.edu.in: Yes, IPv6 Address: 2606:4700:3035::6815:2d4e
+2606:4700:3034::ac43:d33b
+durguniversity.ac.in: Yes, IPv6 Address: 2606:4700:3035::ac43:ace3
+2606:4700:3034::6815:1e76
+eternaluniversity.edu.in: Yes, IPv6 Address: 2a02:4780:3d:bd1a:8115:e8e6:b497:4c00
+gcwparade.in: Yes, IPv6 Address: 2606:4700:3033::6815:135
+2606:4700:3030::ac43:808d
+ggtu.ac.in: Yes, IPv6 Address: 2606:4700:3030::6815:33a0
+2606:4700:3034::ac43:b682
+gug.ac.in: Yes, IPv6 Address: 2606:4700:3033::ac43:da45
+2606:4700:3033::6815:2dbd
+gurugramuniversity.ac.in: Yes, IPv6 Address: 2606:4700:3035::ac43:d540
+2606:4700:3037::6815:17cd
+guts.education: Yes, IPv6 Address: 2606:4700:3030::ac43:c121
+2606:4700:3030::6815:1491
+hbcse.tifr.res.in: Yes, IPv6 Address: 2406:f00:2:44::206
+hbsu.ac.in: Yes, IPv6 Address: 2a02:4780:11:1376:0:1166:920:2
+igmcri.com: Yes, IPv6 Address: 2606:4700:3031::6815:29e3
+2606:4700:3031::ac43:c396
+ihmgurdaspur.org: Yes, IPv6 Address: 2606:4700:3036::6815:58ad
+2606:4700:3034::ac43:978b
+iibf.org.in: Yes, IPv6 Address: 2606:4700:3033::ac43:b6fe
+2606:4700:3033::6815:33a8
+iiitkota.ac.in: Yes, IPv6 Address: 2606:4700:3030::ac43:bbda
+2606:4700:3031::6815:38c9
+iiitranchi.ac.in: Yes, IPv6 Address: 2407:1c00:6100:2c60::
+iiserb.ac.in: Yes, IPv6 Address: 2001:df0:207:1::93
+iitd.ac.in: Yes, IPv6 Address: 2001:df4:e000:29::212
+iittmb.in: Yes, IPv6 Address: 2606:4700:3035::6815:4e11
+2606:4700:3031::ac43:d684
+imibh.edu.in: Yes, IPv6 Address: 2606:4700:3030::ac43:c17e
+2606:4700:3032::6815:39ea
+imi.edu: Yes, IPv6 Address: 2606:4700:3031::ac43:80fb
+2606:4700:3037::6815:161
+imi-k.edu.in: Yes, IPv6 Address: 2606:4700:3030::ac43:c1c4
+2606:4700:3035::6815:5a1d
+iphnewdelhi.in: Yes, IPv6 Address: 2404:4100:0:3000::189:77
+jainuniversity.ac.in: Yes, IPv6 Address: 2606:4700:3031::ac43:935f
+2606:4700:3032::6815:2984
+jammuuniversity.in: Yes, IPv6 Address: 2606:4700:3038::6815:eb1e
+2606:4700:3038::6815:eb1d
+jecrcuniversity.edu.in: Yes, IPv6 Address: 2606:4700:3037::6815:6033
+2606:4700:3033::ac43:ad46
+jiwaji.edu: Yes, IPv6 Address: 2606:4700:3036::ac43:a36c
+2606:4700:3031::6815:4adb
+jncasr.ac.in: Yes, IPv6 Address: 2001:e48:8000:1002::1:ee
+karnavatiuniversity.edu.in: Yes, IPv6 Address: 2606:4700:3034::ac43:8651
+2606:4700:3032::6815:1993
+karunya.edu: Yes, IPv6 Address: 2606:4700:9c6a:1f72:53dd:b09:7c45:ee30
+kiit.ac.in: Yes, IPv6 Address: 2606:4700:3035::6815:4fbd
+2606:4700:3035::ac43:931c
+kiss.ac.in: Yes, IPv6 Address: 2606:4700:3035::ac43:9902
+2606:4700:3032::6815:31e2
+kolhanuniversity.ac.in: Yes, IPv6 Address: 2606:4700:3032::6815:1429
+2606:4700:3035::ac43:bf52
+krmangalam.edu.in: Yes, IPv6 Address: 2606:4700:83b8:ed72:56dd:b0a:2543:78f2
+ksdsu.edu.in: Yes, IPv6 Address: 2606:4700:3036::6815:561b
+2606:4700:3034::ac43:d63d
+ku-guj.org: Yes, IPv6 Address: 2606:4700:3035::6815:5753
+2606:4700:3037::ac43:8e84
+kunainital.ac.in: Yes, IPv6 Address: 2606:4700:3037::6815:4697
+2606:4700:3032::ac43:a862
+lnmu.ac.in: Yes, IPv6 Address: 2606:4700:3034::6815:57bd
+2606:4700:3034::ac43:919e
+lpu.in: Yes, IPv6 Address: 2606:4700:9c68:bc2:5add:b09:d06d:5148
+mdsuajmer.com: Yes, IPv6 Address: 2606:4700:3034::6815:3a74
+2606:4700:3036::ac43:9f68
+mgcgvchitrakoot.com: Yes, IPv6 Address: 2606:4700:3037::ac43:a715
+2606:4700:3036::6815:41d6
+mmumullana.org: Yes, IPv6 Address: 2606:4700:3030::ac43:9dca
+2606:4700:3034::6815:8ae
+mnlumumbai.edu.in: Yes, IPv6 Address: 2a02:4780:20:6ea0:97b5:a2c9:3fff:1dae
+msruas.ac.in: Yes, IPv6 Address: 2606:4700:3036::ac43:a739
+2606:4700:3035::6815:1063
+mssv.co.in: Yes, IPv6 Address: 2606:4700:3030::ac43:a998
+2606:4700:3034::6815:1bad
+nalandauniv.edu.in: Yes, IPv6 Address: 2606:4700:3037::6815:43a5
+2606:4700:3036::ac43:b27c
+nbu.ac.in: Yes, IPv6 Address: 2606:4700:3033::6815:3af2
+2606:4700:3036::ac43:a647
+neftu.edu.in: Yes, IPv6 Address: 2606:4700:3031::ac43:c453
+2606:4700:3030::6815:3443
+nicmar.ac.in: Yes, IPv6 Address: 2606:4700:3035::ac43:88d2
+2606:4700:3036::6815:4ec6
+ninindia.org: Yes, IPv6 Address: 2606:4700:3030::ac43:c4d2
+2606:4700:3034::6815:cfa
+nirwanuniversity.ac.in: Yes, IPv6 Address: 2606:4700:3035::ac43:c71e
+2606:4700:3037::6815:158f
+niser.ac.in: Yes, IPv6 Address: 2001:df5:9e80:c8::4
+nitap.in: Yes, IPv6 Address: 2606:4700:3032::6815:4e4a
+2606:4700:3033::ac43:d9de
+nitk.ac.in: Yes, IPv6 Address: 2400:4f20:80:c00:10:11:0:139
+nitmeghalaya.in: Yes, IPv6 Address: 2400:6180:100:d0::b70:d001
+nituk.ac.in: Yes, IPv6 Address: 2606:4700:3037::6815:589a
+2606:4700:3031::ac43:dfb3
+nludelhi.ac.in: Yes, IPv6 Address: 2606:4700:3034::ac43:8741
+2606:4700:3035::6815:6cc
+nmu.ac.in: Yes, IPv6 Address: 2606:4700:3032::ac43:a5b1
+2606:4700:3036::6815:b58
+nnm.ac.in: Yes, IPv6 Address: 2606:4700:3031::ac43:c49e
+2606:4700:3032::6815:3c7e
+npti.in: Yes, IPv6 Address: 2606:4700:3032::6815:f1
+2606:4700:3035::ac43:9767
+nuepa.org: Yes, IPv6 Address: 2606:4700:3032::ac43:8520
+2606:4700:3033::6815:dd5
+nusrlranchi.in: Yes, IPv6 Address: 2a02:4780:11:1592:0:2368:8364:3
+palamuruuniversity.ac.in: Yes, IPv6 Address: 2606:4700:3036::6815:fd3
+2606:4700:3033::ac43:a43f
+poornima.edu.in: Yes, IPv6 Address: 2606:4700:3031::6815:2d50
+2606:4700:3034::ac43:d33e
+prsu.ac.in: Yes, IPv6 Address: 2606:4700:3037::6815:3c3f
+2606:4700:3032::ac43:c0b6
+raitechuniversity.in: Yes, IPv6 Address: 2a02:4780:11:1122:0:109c:e538:2
+rtu.ac.in: Yes, IPv6 Address: 2606:4700:3030::6815:56b3
+2606:4700:3034::ac43:df4e
+ruhsraj.org: Yes, IPv6 Address: 2606:4700:3031::ac43:de8d
+2606:4700:3031::6815:2b4a
+sanskritcollegeanduniversity.org.in: Yes, IPv6 Address: 2a02:4780:1:791:0:9f1:5165:10
+satavahana.ac.in: Yes, IPv6 Address: 2a02:4780:11:1290:0:66e:91ac:2
+sathyabama.ac.in: Yes, IPv6 Address: 2606:4700:83bb:9d9a:8cdd:b0a:7f9d:b166
+sbvu.ac.in: Yes, IPv6 Address: 2606:4700:3035::ac43:a94c
+2606:4700:3031::6815:5f1b
+senateofseramporecollege.edu.in: Yes, IPv6 Address: 2606:4700:3033::ac43:8f8f
+2606:4700:3037::6815:2741
+sggu.ac.in: Yes, IPv6 Address: 2606:4700:3035::6815:43a9
+2606:4700:3037::ac43:b280
+sgtuniversity.ac.in: Yes, IPv6 Address: 2606:4700:3035::ac43:9c6b
+2606:4700:3032::6815:4914
+sknau.ac.in: Yes, IPv6 Address: 2a02:4780:20:2082:4e5b:5fc5:aed6:eb96
+skuniversity.org: Yes, IPv6 Address: 2606:4700:3030::6815:1f39
+2606:4700:3031::ac43:af33
+smu.edu.in: Yes, IPv6 Address: 2600:9000:24d9:2800:a:b895:2540:93a1
+2600:9000:24d9:7800:a:b895:2540:93a1
+2600:9000:24d9:da00:a:b895:2540:93a1
+2600:9000:24d9:400:a:b895:2540:93a1
+2600:9000:24d9:de00:a:b895:2540:93a1
+2600:9000:24d9:3000:a:b895:2540:93a1
+2600:9000:24d9:1c00:a:b895:2540:93a1
+2600:9000:24d9:8800:a:b895:2540:93a1
+smvdu.ac.in: Yes, IPv6 Address: 2a02:4780:3c:cd74:ae28:7187:4e:940e
+snu.edu.in: Yes, IPv6 Address: 2606:4700::6812:1a
+2606:4700::6812:11a
+sriramachandra.edu.in: Yes, IPv6 Address: 2606:4700:8dd4:c005:ef98:b0b:a8e:6d8
+srmuniversity.ac.in: Yes, IPv6 Address: 2606:4700:3030::ac43:99aa
+2606:4700:3035::6815:38a3
+sssihl.edu.in: Yes, IPv6 Address: 2606:4700:3036::6815:767
+2606:4700:3034::ac43:821c
+sssu.ac.in: Yes, IPv6 Address: 2606:4700:3034::6815:412c
+2606:4700:3035::ac43:9e51
+svu.edu.in: Yes, IPv6 Address: 2606:4700:3037::ac43:91f1
+2606:4700:3036::6815:57ca
+svuniversity.ac.in: Yes, IPv6 Address: 2606:4700:3032::ac43:d691
+2606:4700:3031::6815:3b36
+tamilvu.org: Yes, IPv6 Address: 2606:4700:3030::6815:47df
+2606:4700:3032::ac43:95b6
+tndalu.ac.in: Yes, IPv6 Address: 2606:4700:3035::6815:4a7e
+2606:4700:3034::ac43:9e60
+ubkv.ac.in: Yes, IPv6 Address: 2606:4700:3036::ac43:949c
+2606:4700:3034::6815:59e0
+uem.edu.in: Yes, IPv6 Address: 2606:4700:3030::ac43:c219
+2606:4700:3036::6815:14c2
+unigoa.ac.in: Yes, IPv6 Address: 2606:4700:3035::ac43:945b
+2606:4700:3031::6815:1d28
+uou.ac.in: Yes, IPv6 Address: 2606:4700:3033::ac43:85bc
+2606:4700:3033::6815:e0c
+ushamartinuniversity.com: Yes, IPv6 Address: 2a02:4780:11:1376:0:1723:c895:2
+usvv.org: Yes, IPv6 Address: 2a02:4780:3:706:0:1f6d:d7f6:5
+veltech.edu.in: Yes, IPv6 Address: 2606:4700:3030::6815:4e5f
+2606:4700:3032::ac43:db65
+vmou.ac.in: Yes, IPv6 Address: 2606:4700:3031::6815:22c9
+2606:4700:3035::ac43:a47b
+vnmkv.ac.in: Yes, IPv6 Address: 2606:4700:3032::ac43:b2fe
+2606:4700:3033::6815:43ad
+vnsgu.ac.in: Yes, IPv6 Address: 2606:4700:3034::ac43:97d5
+2606:4700:3031::6815:207a
+vou.ac.in: Yes, IPv6 Address: 2606:4700:3037::6815:5bd0
+2606:4700:3035::ac43:b35c
+xlri.ac.in: Yes, IPv6 Address: 2a02:4780:11:1219:0:36ad:255e:2
+ybnu.ac.in: Yes, IPv6 Address: 2a02:4780:3c:77e5:fa37:7bcb:9b8b:f71b
